@@ -1,4 +1,5 @@
 Authors: Temoor Tayyab, Ahmed Irshad, Kelvin Cho
+<br>
 ** All authors contributed equally
 
 # Project and Data Description 
