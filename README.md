@@ -12,8 +12,8 @@ All data was obtained from the City of Toronto's Open Data Portal:
 - COVID-19 Testing Sites location: https://open.toronto.ca/dataset/covid-19-testing-sites/
 
 
-The Code.R file contains all of the necessary code for the project. The project was conducted in R, version 4.3.1. The report.pdf file contains the final report written for the project, in a manuscript format. 
+The code.R file contains all of the necessary code for the project. The project was conducted in R, version 4.3.1. The report.pdf file contains the final report for the project, in a written in a manuscript format, including spatial visualizations along with our findings. 
 
-* All authors contributed equally
+** All authors contributed equally
 
 
